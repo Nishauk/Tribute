@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+    text-decoration-line: underline;
+    
+}
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+.card{
+    width: 25%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+       
+}
+.one{
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0%;
+    padding: 0%;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    width: 100%;
+}
+
+body{
+    background-image: url('img-1.jpg');
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    margin: 0%;
+}
+.quote{
+    margin: auto;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    border: 1px solid  rgba(115, 79, 199, 0.5);
+    box-sizing: border-box;
+    background-color: rgba(115, 79, 199, 0.5);
+
+}
+
